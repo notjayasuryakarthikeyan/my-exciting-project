@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 print('Hajimemashite sekai!')
-=======
-
->>>>>>> feature/enchancement-1
+#This is an awesome python script
