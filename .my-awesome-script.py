@@ -1,1 +1,2 @@
-print('Hello, World!')
+print('Hajimemashite sekai!')
+#This is an awesome python script
